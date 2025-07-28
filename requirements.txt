@@ -25,6 +25,7 @@ psutil
 pymongo
 pyshorteners
 python-magic
+python-dotenv
 pytz
 pytdbot[tdjson]
 requests
